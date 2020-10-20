@@ -1,0 +1,7 @@
+{"team name": "man utd","games played": "10","games won": "7","games lost": "1","games drawn": "2","points": "23"}
+{"team name": "man city","games played": "10","games won": "6","games lost": "2","games drawn": "2","points": "20"}
+{"team name": "chelsea","games played": "10","games won": "10","games lost": "0","games drawn": "0","points": "30"}
+{"team name": "liverpool","games played": "10","games won": "6","games lost": "2","games drawn": "2","points": "20"}
+{"team name": "arsenal","games played": "10","games won": "5","games lost": "3","games drawn": "2","points": "17"}
+{"team name": "tottenham","games played": "10","games won": "4","games lost": "1","games drawn": "5","points": "17"}
+{"team name": "real madrid","games played": "10","games won": "3","games lost": "4","games drawn": "3","points": "12"}
